@@ -16,3 +16,5 @@ I intend to seek employment in the software industry after graduation.
 * Hello World: Android app
 
 ## Links
+
+*[LinkedIn](www.linkedin.com/in/skylar-t-a-scott)
