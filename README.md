@@ -11,4 +11,8 @@ I intend to seek employment in the software industry after graduation.
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
