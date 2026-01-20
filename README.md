@@ -11,7 +11,7 @@ I intend to seek employment in the software industry after graduation.
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/dd-java-22/hello-world-GilesVolmir)
 
 * Hello World: Android app
 
