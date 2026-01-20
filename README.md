@@ -18,3 +18,7 @@ I intend to seek employment in the software industry after graduation.
 ## Links
 
 * [LinkedIn](www.linkedin.com/in/skylar-t-a-scott)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+> 
+> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
