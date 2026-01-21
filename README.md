@@ -17,4 +17,4 @@ I intend to seek employment in the software industry after graduation.
 
 ## Links
 
-* [LinkedIn](www.linkedin.com/in/skylar-t-a-scott)
+* [LinkedIn](https://www.linkedin.com/in/skylar-t-a-scott)
